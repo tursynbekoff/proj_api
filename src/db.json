@@ -2,14 +2,17 @@
     "categories": [
       {
         "id": "Laptops",
+        "link": "laptops",
         "image": "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117938/laptops/asus-zenbook-14-oled-3.jpg"
       },
       {
         "id": "Keyboards",
+        "link": "keyboards",
         "image": "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117938/keyboards/keychron-k3-version-2-2.jpg"
       },
-      {
+      { 
         "id": "Phones",
+        "link": "phones",
         "image": "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117941/phones/samsung-galaxy-z-flip4-1.jpg"
       }
     ],
