@@ -110,16 +110,16 @@
         "description": "",
         "price": "96,90",
         "image": [
-          "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117938/keyboards/keychron-k3-version-2-1.jpg",
+          "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117937/keyboards/keychron-k3-version-2-1.jpg",
           "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117938/keyboards/keychron-k3-version-2-2.jpg",
           "https://res.cloudinary.com/tursynbekoff/image/upload/v1662117938/keyboards/keychron-k3-version-2-3.jpg"
         ]
       },
       {
         "id": 2,
-        "name": "Keychron K3 Version 2",
-        "keyType": "Gaming ",
-        "keyTypeColor": "Red",
+        "name": "Keychron K6 68 Key Hot-Swappable",
+        "keyType": "Gaming",
+        "keyTypeColor": "Gateron Red",
         "connection": "Bluetooth, USB-C",
         "make": "Keychron ",
         "weight": "530 g",
