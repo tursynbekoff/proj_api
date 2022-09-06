@@ -236,22 +236,22 @@
   ],
   "allProd": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Apple MacBook Air 13",
       "price": 1049.00
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Asus Zenbook 14 OLED",
       "price": 1199.12
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Dell Inspiron 16 plus",
       "price": 1085.19
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Lenovo IdeaPad 5 Pro 16",
       "price": 999.00
     },
