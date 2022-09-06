@@ -18,7 +18,7 @@
   ],
   "laptops": [
     {
-      "id": 1,
+      "id": 0,
       "name": "Apple MacBook Air 13",
       "type": "Multimedia Notebook",
       "make": "Apple",
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 1,
       "name": "Asus Zenbook 14 OLED",
       "type": "Multimedia Notebook",
       "make": "Asus ",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Dell Inspiron 16 plus",
       "type": "Multimedia Notebook",
       "make": "Dell",
@@ -78,7 +78,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Lenovo IdeaPad 5 Pro 16",
       "type": "Multimedia Notebook",
       "make": "Lenovo ",
@@ -100,7 +100,7 @@
   ],
   "keyboards": [
     {
-      "id": 5,
+      "id": 4,
       "name": "Keychron K3 Version 2",
       "keyType": "Gaming ",
       "keyTypeColor": "Blue",
@@ -116,7 +116,7 @@
       ]
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Keychron K6 68 Key Hot-Swappable",
       "keyType": "Gaming",
       "keyTypeColor": "Gateron Red",
@@ -132,7 +132,7 @@
       ]
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Logitech MX Mechanical Mini ",
       "keyType": "Clicky ",
       "keyTypeColor": "Blue",
@@ -148,7 +148,7 @@
       ]
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Logitech MX Mechanical",
       "keyType": "Linear ",
       "keyTypeColor": "brown",
@@ -166,7 +166,7 @@
   ],
   "phones": [
     {
-      "id": 9,
+      "id": 8,
       "name": "Apple iPhone 13 Pro 128GB Graphit",
       "type": "High-End",
       "make": "Apple",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Huawei Mate Xs",
       "type": "High-End",
       "make": "Huawei",
@@ -200,7 +200,7 @@
       ]
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Samsung Galaxy Z",
       "type": "High-End",
       "make": "Samsung",
@@ -217,7 +217,7 @@
       ]
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Samsung Galaxy Z Fold 3",
       "type": "High-End",
       "make": "Samsung",
@@ -236,62 +236,62 @@
   ],
   "allProd": [
     {
-      "id": "1",
+      "id": 0,
       "name": "Apple MacBook Air 13",
       "price": 1049.00
     },
     {
-      "id": "2",
+      "id": 1,
       "name": "Asus Zenbook 14 OLED",
       "price": 1199.12
     },
     {
-      "id": "3",
+      "id": 2,
       "name": "Dell Inspiron 16 plus",
       "price": 1085.19
     },
     {
-      "id": "4",
+      "id": 3,
       "name": "Lenovo IdeaPad 5 Pro 16",
       "price": 999.00
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Keychron K3 Version 2",
       "price": 96.90
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Keychron K6 68 Key Hot-Swappable",
       "price": 99.90
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Logitech MX Mechanical Mini ",
       "price": 159.00
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Logitech MX Mechanical",
       "price": 128.95
     },
     {
-      "id": 9,
+      "id": 8,
       "name": "Apple iPhone 13 Pro 128GB Graphit",
       "price": 1019.99
     },
     {
-      "id": 10,
+      "id": 9,
       "name": "Huawei Mate Xs",
       "price": 1599.0
     },
     {
-      "id": 11,
+      "id": 10,
       "name": "Samsung Galaxy Z",
       "price": 788.99
     },
     {
-      "id": 12,
+      "id": 11,
       "name": "Samsung Galaxy Z Fold 3",
       "price": 1149.00
     }
